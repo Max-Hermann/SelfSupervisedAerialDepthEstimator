@@ -15,7 +15,7 @@ numpy==1.19.1
 opencv-python==4.2.0.34
 Pillow==7.2.0
 pkg-resources==0.0.0
-protobuf==3.12.4
+protobuf==3.18.3
 pyparsing==2.4.7
 python-dateutil==2.8.1
 six==1.15.0
